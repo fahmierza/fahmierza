@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahmi Erza
 - 👀 I’m interested in Smart Device, Software Engineering & Graphic Design.
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning NodeJS
 - 📫 fahmierza7@gmail.com | 0896 8704 5622
 
 <!---
